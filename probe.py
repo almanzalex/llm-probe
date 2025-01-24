@@ -38,24 +38,24 @@ class LinearRegressionProbe:
 
         return cost_history, weight_history
 
-def generate_synthetic_data(num_samples=100, embedding_dim=768):
+def generate_data(num_samples=100, embedding_dim=768):
     np.random.seed(42)
     X = np.random.randn(num_samples, embedding_dim)
     y = np.random.randint(0, 2, size=num_samples)
     return X, y
 
 if __name__ == "__main__":
-    X, y = generate_synthetic_data()
+    X, y = generate_data()
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
     probe = LinearRegressionProbe(input_dim=X.shape[1], lr=0.01)
 
-    print("Training the probe...")
+    print("Training the probe")
     cost_history, weight_history = probe.fit(X_train, y_train, training_steps=50)
 
     y_pred = probe.predict(X_test)
     mse = mean_squared_error(y_test, y_pred)
-    print(f"Test Mean Squared Error: {mse:.4f}")
+    print(f"Mean Squared Error: {mse:.4f}")
 
     plt.figure(figsize=(10, 6))
     plt.plot(cost_history, label="Cost")
