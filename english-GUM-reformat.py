@@ -40,7 +40,7 @@ def save_to_json(parsed_data, output_path):
         json.dump(parsed_data, file, indent=4)
 
 if __name__ == "__main__":
-    input_file = "gum-sample.txt.rtf"  # Replace with the actual file path
+    input_file = "english-GUM-sample.txt"  # Replace with the actual file path
     output_file = "parsed_gum.json"
 
     parsed_data = parse_gum(input_file)
