@@ -2,10 +2,18 @@ import json
 import torch
 from transformers import GPT2Tokenizer, GPT2Model
 
-# Load the GPT2 model and tokenizer
+# Load GPT-2 model and tokenizer
 tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
 model = GPT2Model.from_pretrained("gpt2")
 model.eval()
+
+# Set padding token to avoid errors
+if tokenizer.pad_token is None:
+    tokenizer.pad_token = tokenizer.eos_token  # Use eos_token as pad_token
+
+# Set padding token to avoid errors
+if tokenizer.pad_token is None:
+    tokenizer.pad_token = tokenizer.eos_token  # Use eos_token as pad_token
 
 # Load the parsed GUM dataset from the JSON file
 parsed_file_path = "parsed_gum.json"  # Adjust if file path differs
@@ -38,4 +46,4 @@ for i in range(0, len(sentences), batch_size):
         embeddings.append(embedding.numpy())
 
 # Output embeddings for review (show the first few for confirmation)
-embeddings[:2]
+print(embeddings[:2])
