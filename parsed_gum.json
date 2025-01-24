@@ -1,0 +1,4666 @@
+[
+    [
+        {
+            "token": "Cold",
+            "label": "root"
+        },
+        {
+            "token": "as",
+            "label": "case"
+        },
+        {
+            "token": "ice",
+            "label": "obl"
+        },
+        {
+            "token": ":",
+            "label": "punct"
+        },
+        {
+            "token": "Wikinews",
+            "label": "nsubj"
+        },
+        {
+            "token": "interviews",
+            "label": "parataxis"
+        },
+        {
+            "token": "Marymegan",
+            "label": "obj"
+        },
+        {
+            "token": "Daly",
+            "label": "flat"
+        },
+        {
+            "token": "on",
+            "label": "case"
+        },
+        {
+            "token": "unusual",
+            "label": "amod"
+        },
+        {
+            "token": "new",
+            "label": "amod"
+        },
+        {
+            "token": "sea",
+            "label": "compound"
+        },
+        {
+            "token": "anemone",
+            "label": "nmod"
+        }
+    ],
+    [
+        {
+            "token": "Tuesday",
+            "label": "root"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "January",
+            "label": "compound"
+        },
+        {
+            "token": "21",
+            "label": "appos"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "2014",
+            "label": "nmod:unmarked"
+        }
+    ],
+    [
+        {
+            "token": "How",
+            "label": "advmod"
+        },
+        {
+            "token": "did",
+            "label": "aux"
+        },
+        {
+            "token": "you",
+            "label": "nsubj"
+        },
+        {
+            "token": "come",
+            "label": "root"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "be",
+            "label": "aux:pass"
+        },
+        {
+            "token": "involved",
+            "label": "xcomp"
+        },
+        {
+            "token": "with",
+            "label": "case"
+        },
+        {
+            "token": "this",
+            "label": "det"
+        },
+        {
+            "token": "discovery",
+            "label": "obl"
+        }
+    ],
+    [
+        {
+            "token": "Frank",
+            "label": "nsubj"
+        },
+        {
+            "token": "Rack",
+            "label": "flat"
+        },
+        {
+            "token": "got",
+            "label": "root"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "touch",
+            "label": "obl"
+        },
+        {
+            "token": "after",
+            "label": "mark"
+        },
+        {
+            "token": "they",
+            "label": "nsubj"
+        },
+        {
+            "token": "returned",
+            "label": "advcl"
+        },
+        {
+            "token": "from",
+            "label": "case"
+        },
+        {
+            "token": "Antarctica",
+            "label": "obl"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "hopes",
+            "label": "obl"
+        },
+        {
+            "token": "that",
+            "label": "mark"
+        },
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "could",
+            "label": "aux"
+        },
+        {
+            "token": "help",
+            "label": "acl"
+        },
+        {
+            "token": "with",
+            "label": "case"
+        },
+        {
+            "token": "an",
+            "label": "det"
+        },
+        {
+            "token": "identification",
+            "label": "obl"
+        },
+        {
+            "token": "on",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "anemone",
+            "label": "nmod"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "What",
+            "label": "nsubj"
+        },
+        {
+            "token": "was",
+            "label": "cop"
+        },
+        {
+            "token": "your",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "first",
+            "label": "amod"
+        },
+        {
+            "token": "reaction",
+            "label": "root"
+        },
+        {
+            "token": "upon",
+            "label": "mark"
+        },
+        {
+            "token": "learning",
+            "label": "acl"
+        },
+        {
+            "token": "there",
+            "label": "expl"
+        },
+        {
+            "token": "was",
+            "label": "ccomp"
+        },
+        {
+            "token": "an",
+            "label": "det"
+        },
+        {
+            "token": "undiscovered",
+            "label": "amod"
+        },
+        {
+            "token": "ecosystem",
+            "label": "nsubj"
+        },
+        {
+            "token": "under",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "ice",
+            "label": "nmod"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "Ross",
+            "label": "compound"
+        },
+        {
+            "token": "Sea",
+            "label": "nmod"
+        },
+        {
+            "token": "?",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "I",
+            "label": "nsubj:pass"
+        },
+        {
+            "token": "was",
+            "label": "aux:pass"
+        },
+        {
+            "token": "amazed",
+            "label": "root"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "really",
+            "label": "advmod"
+        },
+        {
+            "token": "excited",
+            "label": "conj"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "think",
+            "label": "root"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "say",
+            "label": "csubj"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "was",
+            "label": "cop"
+        },
+        {
+            "token": "unexpected",
+            "label": "ccomp"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "inaccurate",
+            "label": "ccomp"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "because",
+            "label": "mark"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "implies",
+            "label": "advcl"
+        },
+        {
+            "token": "that",
+            "label": "mark"
+        },
+        {
+            "token": "there",
+            "label": "expl"
+        },
+        {
+            "token": "was",
+            "label": "ccomp"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "well",
+            "label": "advmod"
+        },
+        {
+            "token": "-",
+            "label": "punct"
+        },
+        {
+            "token": "founded",
+            "label": "amod"
+        },
+        {
+            "token": "expectation",
+            "label": "nsubj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "something",
+            "label": "nmod"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "The",
+            "label": "det"
+        },
+        {
+            "token": "technology",
+            "label": "nsubj"
+        },
+        {
+            "token": "that",
+            "label": "obj"
+        },
+        {
+            "token": "Frank",
+            "label": "nsubj"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "his",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "colleagues",
+            "label": "conj"
+        },
+        {
+            "token": "are",
+            "label": "aux"
+        },
+        {
+            "token": "using",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "explore",
+            "label": "advcl"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "ice",
+            "label": "obj"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "so",
+            "label": "advmod"
+        },
+        {
+            "token": "important",
+            "label": "root"
+        },
+        {
+            "token": "because",
+            "label": "mark"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "given",
+            "label": "advcl"
+        },
+        {
+            "token": "our",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "lack",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "data",
+            "label": "nmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "have",
+            "label": "advcl"
+        },
+        {
+            "token": "no",
+            "label": "det"
+        },
+        {
+            "token": "reasonable",
+            "label": "amod"
+        },
+        {
+            "token": "expectation",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "what",
+            "label": "nmod"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "should",
+            "label": "aux"
+        },
+        {
+            "token": "be",
+            "label": "cop"
+        },
+        {
+            "token": "like",
+            "label": "acl:relcl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "or",
+            "label": "cc"
+        },
+        {
+            "token": "what",
+            "label": "conj"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "shouldn't",
+            "label": "_"
+        },
+        {
+            "token": "should",
+            "label": "aux"
+        },
+        {
+            "token": "n't",
+            "label": "advmod"
+        },
+        {
+            "token": "be",
+            "label": "cop"
+        },
+        {
+            "token": "like",
+            "label": "acl:relcl"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "There's",
+            "label": "_"
+        },
+        {
+            "token": "There",
+            "label": "expl"
+        },
+        {
+            "token": "'s",
+            "label": "root"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "return",
+            "label": "compound"
+        },
+        {
+            "token": "trip",
+            "label": "nsubj"
+        },
+        {
+            "token": "planned",
+            "label": "acl"
+        },
+        {
+            "token": "hopefully",
+            "label": "advmod"
+        },
+        {
+            "token": "for",
+            "label": "case"
+        },
+        {
+            "token": "2015",
+            "label": "obl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "with",
+            "label": "case"
+        },
+        {
+            "token": "both",
+            "label": "cc:preconj"
+        },
+        {
+            "token": "biologists",
+            "label": "nmod"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "ANDRILL",
+            "label": "compound"
+        },
+        {
+            "token": "geologists",
+            "label": "conj"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "Are",
+            "label": "aux"
+        },
+        {
+            "token": "you",
+            "label": "nsubj"
+        },
+        {
+            "token": "intending",
+            "label": "root"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "go",
+            "label": "xcomp"
+        },
+        {
+            "token": "there",
+            "label": "advmod"
+        },
+        {
+            "token": "yourself",
+            "label": "obj"
+        },
+        {
+            "token": "?",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "would",
+            "label": "aux"
+        },
+        {
+            "token": "love",
+            "label": "root"
+        },
+        {
+            "token": "to",
+            "label": "xcomp"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "But",
+            "label": "cc"
+        },
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "am",
+            "label": "cop"
+        },
+        {
+            "token": "also",
+            "label": "advmod"
+        },
+        {
+            "token": "happy",
+            "label": "root"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "not",
+            "label": "advmod"
+        },
+        {
+            "token": "go",
+            "label": "xcomp"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "as",
+            "label": "advmod"
+        },
+        {
+            "token": "long",
+            "label": "advmod"
+        },
+        {
+            "token": "as",
+            "label": "mark"
+        },
+        {
+            "token": "someone",
+            "label": "nsubj"
+        },
+        {
+            "token": "collects",
+            "label": "advcl"
+        },
+        {
+            "token": "more",
+            "label": "amod"
+        },
+        {
+            "token": "animals",
+            "label": "obj"
+        },
+        {
+            "token": "on",
+            "label": "case"
+        },
+        {
+            "token": "my",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "behalf",
+            "label": "obl"
+        },
+        {
+            "token": "!",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "What",
+            "label": "nsubj"
+        },
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "want",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "do",
+            "label": "xcomp"
+        },
+        {
+            "token": "with",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "animals",
+            "label": "obl"
+        },
+        {
+            "token": "requires",
+            "label": "root"
+        },
+        {
+            "token": "new",
+            "label": "amod"
+        },
+        {
+            "token": "material",
+            "label": "obj"
+        },
+        {
+            "token": "preserved",
+            "label": "acl"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "diverse",
+            "label": "amod"
+        },
+        {
+            "token": "ways",
+            "label": "obl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "but",
+            "label": "cc"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "doesn't",
+            "label": "_"
+        },
+        {
+            "token": "does",
+            "label": "aux"
+        },
+        {
+            "token": "n't",
+            "label": "advmod"
+        },
+        {
+            "token": "require",
+            "label": "conj"
+        },
+        {
+            "token": "me",
+            "label": "obj"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "be",
+            "label": "cop"
+        },
+        {
+            "token": "there",
+            "label": "xcomp"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "Although",
+            "label": "mark"
+        },
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "am",
+            "label": "cop"
+        },
+        {
+            "token": "sure",
+            "label": "advcl"
+        },
+        {
+            "token": "that",
+            "label": "mark"
+        },
+        {
+            "token": "being",
+            "label": "csubj"
+        },
+        {
+            "token": "there",
+            "label": "advmod"
+        },
+        {
+            "token": "would",
+            "label": "aux"
+        },
+        {
+            "token": "enhance",
+            "label": "ccomp"
+        },
+        {
+            "token": "my",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "understanding",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "animals",
+            "label": "nmod"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "system",
+            "label": "conj"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "which",
+            "label": "obl"
+        },
+        {
+            "token": "they",
+            "label": "nsubj"
+        },
+        {
+            "token": "live",
+            "label": "acl:relcl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "would",
+            "label": "aux"
+        },
+        {
+            "token": "help",
+            "label": "conj"
+        },
+        {
+            "token": "me",
+            "label": "obj"
+        },
+        {
+            "token": "formulate",
+            "label": "xcomp"
+        },
+        {
+            "token": "more",
+            "label": "amod"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "better",
+            "label": "conj"
+        },
+        {
+            "token": "questions",
+            "label": "obj"
+        },
+        {
+            "token": "about",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "anemones",
+            "label": "nmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "ship",
+            "label": "compound"
+        },
+        {
+            "token": "time",
+            "label": "nsubj"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "expensive",
+            "label": "root"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "especially",
+            "label": "advmod"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "Antarctica",
+            "label": "obl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "if",
+            "label": "mark"
+        },
+        {
+            "token": "there",
+            "label": "expl"
+        },
+        {
+            "token": "are",
+            "label": "advcl"
+        },
+        {
+            "token": "biologists",
+            "label": "nsubj"
+        },
+        {
+            "token": "whose",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "contribution",
+            "label": "nsubj:pass"
+        },
+        {
+            "token": "is",
+            "label": "aux:pass"
+        },
+        {
+            "token": "predicated",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "on",
+            "label": "mark"
+        },
+        {
+            "token": "being",
+            "label": "advcl"
+        },
+        {
+            "token": "there",
+            "label": "advmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "they",
+            "label": "nsubj"
+        },
+        {
+            "token": "should",
+            "label": "aux"
+        },
+        {
+            "token": "have",
+            "label": "conj"
+        },
+        {
+            "token": "priority",
+            "label": "obj"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "be",
+            "label": "advcl"
+        },
+        {
+            "token": "there",
+            "label": "advmod"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "These",
+            "label": "det"
+        },
+        {
+            "token": "animals",
+            "label": "nsubj:pass"
+        },
+        {
+            "token": "are",
+            "label": "aux:pass"
+        },
+        {
+            "token": "shrouded",
+            "label": "root"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "mystery",
+            "label": "obl"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "Some",
+            "label": "nsubj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "most",
+            "label": "advmod"
+        },
+        {
+            "token": "intriguing",
+            "label": "amod"
+        },
+        {
+            "token": "questions",
+            "label": "nmod"
+        },
+        {
+            "token": "are",
+            "label": "cop"
+        },
+        {
+            "token": "chemical",
+            "label": "root"
+        },
+        {
+            "token": ";",
+            "label": "punct"
+        },
+        {
+            "token": "do",
+            "label": "aux"
+        },
+        {
+            "token": "they",
+            "label": "nsubj"
+        },
+        {
+            "token": "produce",
+            "label": "parataxis"
+        },
+        {
+            "token": "some",
+            "label": "det"
+        },
+        {
+            "token": "kind",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "antifreeze",
+            "label": "nmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "that",
+            "label": "det"
+        },
+        {
+            "token": "orange",
+            "label": "amod"
+        },
+        {
+            "token": "glow",
+            "label": "nsubj"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "ROV",
+            "label": "compound"
+        },
+        {
+            "token": "lights",
+            "label": "nmod"
+        },
+        {
+            "token": "their",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "own",
+            "label": "conj"
+        },
+        {
+            "token": "?",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "Talk",
+            "label": "root"
+        },
+        {
+            "token": "us",
+            "label": "obj"
+        },
+        {
+            "token": "through",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "difficulties",
+            "label": "obl"
+        },
+        {
+            "token": "encountered",
+            "label": "acl"
+        },
+        {
+            "token": "when",
+            "label": "advmod"
+        },
+        {
+            "token": "trying",
+            "label": "advcl"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "find",
+            "label": "xcomp"
+        },
+        {
+            "token": "answers",
+            "label": "obj"
+        },
+        {
+            "token": "with",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "specimens",
+            "label": "obl"
+        },
+        {
+            "token": "on",
+            "label": "case"
+        },
+        {
+            "token": "hand",
+            "label": "nmod"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "The",
+            "label": "det"
+        },
+        {
+            "token": "samples",
+            "label": "nsubj"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "have",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "are",
+            "label": "cop"
+        },
+        {
+            "token": "small",
+            "label": "root"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "terms",
+            "label": "obl"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "numbers",
+            "label": "nmod"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "they",
+            "label": "nsubj:pass"
+        },
+        {
+            "token": "are",
+            "label": "aux:pass"
+        },
+        {
+            "token": "all",
+            "label": "advmod"
+        },
+        {
+            "token": "preserved",
+            "label": "conj"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "formalin",
+            "label": "obl"
+        },
+        {
+            "token": "(",
+            "label": "punct"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "kind",
+            "label": "dep"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "formaldehyde",
+            "label": "compound"
+        },
+        {
+            "token": "solution",
+            "label": "nmod"
+        },
+        {
+            "token": ")",
+            "label": "punct"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "The",
+            "label": "det"
+        },
+        {
+            "token": "formalin",
+            "label": "nsubj"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "great",
+            "label": "root"
+        },
+        {
+            "token": "for",
+            "label": "mark"
+        },
+        {
+            "token": "preserving",
+            "label": "advcl"
+        },
+        {
+            "token": "structures",
+            "label": "obj"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "but",
+            "label": "cc"
+        },
+        {
+            "token": "for",
+            "label": "case"
+        },
+        {
+            "token": "anemones",
+            "label": "obl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "prevents",
+            "label": "conj"
+        },
+        {
+            "token": "study",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "DNA",
+            "label": "nmod"
+        },
+        {
+            "token": "or",
+            "label": "cc"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "chemistry",
+            "label": "conj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "body",
+            "label": "nmod"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "This",
+            "label": "nsubj"
+        },
+        {
+            "token": "means",
+            "label": "root"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "can't",
+            "label": "_"
+        },
+        {
+            "token": "ca",
+            "label": "aux"
+        },
+        {
+            "token": "n't",
+            "label": "advmod"
+        },
+        {
+            "token": "look",
+            "label": "ccomp"
+        },
+        {
+            "token": "at",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "issue",
+            "label": "obl"
+        },
+        {
+            "token": "you",
+            "label": "nsubj"
+        },
+        {
+            "token": "raise",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "with",
+            "label": "case"
+        },
+        {
+            "token": "these",
+            "label": "det"
+        },
+        {
+            "token": "animals",
+            "label": "obl"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "What",
+            "label": "nsubj:outer"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "could",
+            "label": "aux"
+        },
+        {
+            "token": "do",
+            "label": "acl:relcl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "however",
+            "label": "advmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "was",
+            "label": "cop"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "study",
+            "label": "root"
+        },
+        {
+            "token": "anatomy",
+            "label": "obj"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "figure",
+            "label": "conj"
+        },
+        {
+            "token": "out",
+            "label": "compound:prt"
+        },
+        {
+            "token": "what",
+            "label": "obj"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "so",
+            "label": "mark"
+        },
+        {
+            "token": "that",
+            "label": "fixed"
+        },
+        {
+            "token": "when",
+            "label": "advmod"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "have",
+            "label": "advcl"
+        },
+        {
+            "token": "samples",
+            "label": "obj"
+        },
+        {
+            "token": "preserved",
+            "label": "acl"
+        },
+        {
+            "token": "for",
+            "label": "mark"
+        },
+        {
+            "token": "studying",
+            "label": "advcl"
+        },
+        {
+            "token": "e.g.",
+            "label": "advmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "genome",
+            "label": "obj"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "transcriptome",
+            "label": "conj"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "or",
+            "label": "cc"
+        },
+        {
+            "token": "metabolome",
+            "label": "conj"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "or",
+            "label": "cc"
+        },
+        {
+            "token": "conduct",
+            "label": "conj"
+        },
+        {
+            "token": "tests",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "fluid",
+            "label": "nmod"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "burrows",
+            "label": "nmod"
+        },
+        {
+            "token": "or",
+            "label": "cc"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "animals",
+            "label": "conj"
+        },
+        {
+            "token": "themselves",
+            "label": "nmod:unmarked"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "can",
+            "label": "aux"
+        },
+        {
+            "token": "make",
+            "label": "advcl"
+        },
+        {
+            "token": "precise",
+            "label": "amod"
+        },
+        {
+            "token": "comparisons",
+            "label": "obj"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "figure",
+            "label": "conj"
+        },
+        {
+            "token": "out",
+            "label": "compound:prt"
+        },
+        {
+            "token": "what",
+            "label": "obj"
+        },
+        {
+            "token": "these",
+            "label": "det"
+        },
+        {
+            "token": "animals",
+            "label": "nsubj"
+        },
+        {
+            "token": "have",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "or",
+            "label": "cc"
+        },
+        {
+            "token": "do",
+            "label": "conj"
+        },
+        {
+            "token": "(",
+            "label": "punct"
+        },
+        {
+            "token": "metabolically",
+            "label": "advmod"
+        },
+        {
+            "token": "or",
+            "label": "cc"
+        },
+        {
+            "token": "chemically",
+            "label": "conj"
+        },
+        {
+            "token": ")",
+            "label": "punct"
+        },
+        {
+            "token": "that",
+            "label": "nsubj"
+        },
+        {
+            "token": "lets",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "them",
+            "label": "obj"
+        },
+        {
+            "token": "live",
+            "label": "xcomp"
+        },
+        {
+            "token": "where",
+            "label": "advmod"
+        },
+        {
+            "token": "they",
+            "label": "nsubj"
+        },
+        {
+            "token": "live",
+            "label": "advcl"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "Just",
+            "label": "advmod"
+        },
+        {
+            "token": "knowing",
+            "label": "csubj"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "whole",
+            "label": "amod"
+        },
+        {
+            "token": "lot",
+            "label": "obj"
+        },
+        {
+            "token": "about",
+            "label": "case"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "single",
+            "label": "amod"
+        },
+        {
+            "token": "species",
+            "label": "nmod"
+        },
+        {
+            "token": "isn't",
+            "label": "_"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "n't",
+            "label": "advmod"
+        },
+        {
+            "token": "very",
+            "label": "advmod"
+        },
+        {
+            "token": "useful",
+            "label": "root"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "even",
+            "label": "advmod"
+        },
+        {
+            "token": "if",
+            "label": "mark"
+        },
+        {
+            "token": "that",
+            "label": "det"
+        },
+        {
+            "token": "animal",
+            "label": "nsubj"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "as",
+            "label": "advmod"
+        },
+        {
+            "token": "special",
+            "label": "advcl"
+        },
+        {
+            "token": "as",
+            "label": "mark"
+        },
+        {
+            "token": "these",
+            "label": "nsubj"
+        },
+        {
+            "token": "clearly",
+            "label": "advmod"
+        },
+        {
+            "token": "are",
+            "label": "advcl"
+        },
+        {
+            "token": "-",
+            "label": "punct"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "need",
+            "label": "parataxis"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "know",
+            "label": "xcomp"
+        },
+        {
+            "token": "what",
+            "label": "nsubj"
+        },
+        {
+            "token": "about",
+            "label": "case"
+        },
+        {
+            "token": "them",
+            "label": "nmod"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "different",
+            "label": "ccomp"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "thus",
+            "label": "advmod"
+        },
+        {
+            "token": "related",
+            "label": "conj"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "living",
+            "label": "advcl"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "this",
+            "label": "det"
+        },
+        {
+            "token": "strange",
+            "label": "amod"
+        },
+        {
+            "token": "way",
+            "label": "obl"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "The",
+            "label": "det"
+        },
+        {
+            "token": "only",
+            "label": "amod"
+        },
+        {
+            "token": "way",
+            "label": "nsubj:outer"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "get",
+            "label": "acl"
+        },
+        {
+            "token": "at",
+            "label": "case"
+        },
+        {
+            "token": "what's",
+            "label": "_"
+        },
+        {
+            "token": "what",
+            "label": "obl"
+        },
+        {
+            "token": "'s",
+            "label": "cop"
+        },
+        {
+            "token": "different",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "make",
+            "label": "root"
+        },
+        {
+            "token": "comparisons",
+            "label": "obj"
+        },
+        {
+            "token": "with",
+            "label": "case"
+        },
+        {
+            "token": "close",
+            "label": "amod"
+        },
+        {
+            "token": "relatives",
+            "label": "nmod"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "We",
+            "label": "nsubj"
+        },
+        {
+            "token": "can",
+            "label": "aux"
+        },
+        {
+            "token": "start",
+            "label": "root"
+        },
+        {
+            "token": "that",
+            "label": "det"
+        },
+        {
+            "token": "side",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "work",
+            "label": "nmod"
+        },
+        {
+            "token": "now",
+            "label": "advmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "anticipating",
+            "label": "acl"
+        },
+        {
+            "token": "having",
+            "label": "advcl"
+        },
+        {
+            "token": "more",
+            "label": "amod"
+        },
+        {
+            "token": "beasts",
+            "label": "obj"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "future",
+            "label": "obl"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "In",
+            "label": "case"
+        },
+        {
+            "token": "terms",
+            "label": "obl"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "their",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "glow",
+            "label": "nmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "suspect",
+            "label": "root"
+        },
+        {
+            "token": "that",
+            "label": "mark"
+        },
+        {
+            "token": "it's",
+            "label": "_"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "'s",
+            "label": "cop"
+        },
+        {
+            "token": "not",
+            "label": "advmod"
+        },
+        {
+            "token": "theirs",
+            "label": "ccomp"
+        },
+        {
+            "token": "-",
+            "label": "punct"
+        },
+        {
+            "token": "although",
+            "label": "mark"
+        },
+        {
+            "token": "luminescence",
+            "label": "nsubj"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "common",
+            "label": "advcl"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "anemone",
+            "label": "compound"
+        },
+        {
+            "token": "relatives",
+            "label": "obl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "they",
+            "label": "nsubj"
+        },
+        {
+            "token": "don't",
+            "label": "_"
+        },
+        {
+            "token": "do",
+            "label": "aux"
+        },
+        {
+            "token": "n't",
+            "label": "advmod"
+        },
+        {
+            "token": "usually",
+            "label": "advmod"
+        },
+        {
+            "token": "make",
+            "label": "parataxis"
+        },
+        {
+            "token": "light",
+            "label": "obj"
+        },
+        {
+            "token": "themselves",
+            "label": "obl:unmarked"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "They",
+            "label": "nsubj"
+        },
+        {
+            "token": "do",
+            "label": "aux"
+        },
+        {
+            "token": "make",
+            "label": "root"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "host",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "florescent",
+            "label": "amod"
+        },
+        {
+            "token": "proteins",
+            "label": "nmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "these",
+            "label": "nsubj"
+        },
+        {
+            "token": "may",
+            "label": "aux"
+        },
+        {
+            "token": "interact",
+            "label": "conj"
+        },
+        {
+            "token": "with",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "light",
+            "label": "obl"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "ROV",
+            "label": "nmod"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "give",
+            "label": "advcl"
+        },
+        {
+            "token": "that",
+            "label": "det"
+        },
+        {
+            "token": "gorgeous",
+            "label": "amod"
+        },
+        {
+            "token": "glow",
+            "label": "obj"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "What",
+            "label": "det"
+        },
+        {
+            "token": "analysis",
+            "label": "obj"
+        },
+        {
+            "token": "did",
+            "label": "aux"
+        },
+        {
+            "token": "you",
+            "label": "nsubj"
+        },
+        {
+            "token": "perform",
+            "label": "root"
+        },
+        {
+            "token": "on",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "specimens",
+            "label": "obl"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "what",
+            "label": "det"
+        },
+        {
+            "token": "equipment",
+            "label": "nsubj:pass"
+        },
+        {
+            "token": "was",
+            "label": "aux:pass"
+        },
+        {
+            "token": "used",
+            "label": "conj"
+        },
+        {
+            "token": "?",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "used",
+            "label": "root"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "dissecting",
+            "label": "amod"
+        },
+        {
+            "token": "scope",
+            "label": "obj"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "look",
+            "label": "advcl"
+        },
+        {
+            "token": "at",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "animal's",
+            "label": "_"
+        },
+        {
+            "token": "animal",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "'s",
+            "label": "case"
+        },
+        {
+            "token": "external",
+            "label": "amod"
+        },
+        {
+            "token": "anatomy",
+            "label": "obl"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "overall",
+            "label": "amod"
+        },
+        {
+            "token": "body",
+            "label": "compound"
+        },
+        {
+            "token": "organization",
+            "label": "conj"
+        },
+        {
+            "token": "(",
+            "label": "punct"
+        },
+        {
+            "token": "magnification",
+            "label": "parataxis"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "60",
+            "label": "nummod"
+        },
+        {
+            "token": "X",
+            "label": "nmod"
+        },
+        {
+            "token": ")",
+            "label": "punct"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "embedded",
+            "label": "root"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "few",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "animals",
+            "label": "obl"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "wax",
+            "label": "obl"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "then",
+            "label": "advmod"
+        },
+        {
+            "token": "cut",
+            "label": "conj"
+        },
+        {
+            "token": "them",
+            "label": "obj"
+        },
+        {
+            "token": "into",
+            "label": "case"
+        },
+        {
+            "token": "very",
+            "label": "advmod"
+        },
+        {
+            "token": "thin",
+            "label": "amod"
+        },
+        {
+            "token": "slices",
+            "label": "obl"
+        },
+        {
+            "token": "using",
+            "label": "advcl"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "microtome",
+            "label": "obj"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "mounted",
+            "label": "dep"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "slices",
+            "label": "obj"
+        },
+        {
+            "token": "on",
+            "label": "case"
+        },
+        {
+            "token": "microscope",
+            "label": "compound"
+        },
+        {
+            "token": "slides",
+            "label": "obl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "stained",
+            "label": "dep"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "slices",
+            "label": "obj"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "enhance",
+            "label": "advcl"
+        },
+        {
+            "token": "contrast",
+            "label": "obj"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "then",
+            "label": "advmod"
+        },
+        {
+            "token": "looked",
+            "label": "conj"
+        },
+        {
+            "token": "at",
+            "label": "case"
+        },
+        {
+            "token": "those",
+            "label": "det"
+        },
+        {
+            "token": "slides",
+            "label": "obl"
+        },
+        {
+            "token": "under",
+            "label": "case"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "compound",
+            "label": "amod"
+        },
+        {
+            "token": "microscope",
+            "label": "obl"
+        }
+    ],
+    [
+        {
+            "token": "(",
+            "label": "punct"
+        },
+        {
+            "token": "that's",
+            "label": "_"
+        },
+        {
+            "token": "that",
+            "label": "nsubj"
+        },
+        {
+            "token": "'s",
+            "label": "cop"
+        },
+        {
+            "token": "how",
+            "label": "root"
+        },
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "got",
+            "label": "advcl:relcl"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "pictures",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "muscles",
+            "label": "nmod"
+        },
+        {
+            "token": "etc",
+            "label": "conj"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "paper",
+            "label": "nmod"
+        },
+        {
+            "token": ")",
+            "label": "punct"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "used",
+            "label": "root"
+        },
+        {
+            "token": "that",
+            "label": "det"
+        },
+        {
+            "token": "same",
+            "label": "amod"
+        },
+        {
+            "token": "compound",
+            "label": "amod"
+        },
+        {
+            "token": "scope",
+            "label": "obj"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "look",
+            "label": "advcl"
+        },
+        {
+            "token": "at",
+            "label": "case"
+        },
+        {
+            "token": "squashed",
+            "label": "amod"
+        },
+        {
+            "token": "bits",
+            "label": "obl"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "tissue",
+            "label": "nmod"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "see",
+            "label": "advcl"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "stinging",
+            "label": "amod"
+        },
+        {
+            "token": "capsules",
+            "label": "obj"
+        },
+        {
+            "token": "(",
+            "label": "punct"
+        },
+        {
+            "token": "=",
+            "label": "parataxis"
+        },
+        {
+            "token": "nematocysts",
+            "label": "obj"
+        },
+        {
+            "token": ")",
+            "label": "punct"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "compared",
+            "label": "root"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "things",
+            "label": "obj"
+        },
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "saw",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "under",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "'scopes",
+            "label": "obl"
+        },
+        {
+            "token": "to",
+            "label": "case"
+        },
+        {
+            "token": "what",
+            "label": "obl"
+        },
+        {
+            "token": "had",
+            "label": "aux"
+        },
+        {
+            "token": "been",
+            "label": "aux:pass"
+        },
+        {
+            "token": "published",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "on",
+            "label": "case"
+        },
+        {
+            "token": "other",
+            "label": "amod"
+        },
+        {
+            "token": "species",
+            "label": "obl"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "this",
+            "label": "det"
+        },
+        {
+            "token": "group",
+            "label": "nmod"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "This",
+            "label": "det"
+        },
+        {
+            "token": "step",
+            "label": "nsubj"
+        },
+        {
+            "token": "seems",
+            "label": "root"
+        },
+        {
+            "token": "trivial",
+            "label": "xcomp"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "but",
+            "label": "cc"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "really",
+            "label": "advmod"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "most",
+            "label": "advmod"
+        },
+        {
+            "token": "important",
+            "label": "amod"
+        },
+        {
+            "token": "part",
+            "label": "conj"
+        },
+        {
+            "token": "!",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "By",
+            "label": "mark"
+        },
+        {
+            "token": "comparing",
+            "label": "advcl"
+        },
+        {
+            "token": "my",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "observations",
+            "label": "obj"
+        },
+        {
+            "token": "to",
+            "label": "case"
+        },
+        {
+            "token": "what",
+            "label": "obl"
+        },
+        {
+            "token": "my",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "colleagues",
+            "label": "nsubj"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "predecessors",
+            "label": "conj"
+        },
+        {
+            "token": "had",
+            "label": "aux"
+        },
+        {
+            "token": "found",
+            "label": "acl:relcl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "figured",
+            "label": "root"
+        },
+        {
+            "token": "out",
+            "label": "compound:prt"
+        },
+        {
+            "token": "what",
+            "label": "det"
+        },
+        {
+            "token": "group",
+            "label": "obl"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "belongs",
+            "label": "ccomp"
+        },
+        {
+            "token": "to",
+            "label": "case"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "was",
+            "label": "cop"
+        },
+        {
+            "token": "able",
+            "label": "conj"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "determine",
+            "label": "xcomp"
+        },
+        {
+            "token": "that",
+            "label": "mark"
+        },
+        {
+            "token": "within",
+            "label": "case"
+        },
+        {
+            "token": "that",
+            "label": "det"
+        },
+        {
+            "token": "group",
+            "label": "nmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "was",
+            "label": "cop"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "new",
+            "label": "amod"
+        },
+        {
+            "token": "species",
+            "label": "ccomp"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "It",
+            "label": "nsubj"
+        },
+        {
+            "token": "was",
+            "label": "cop"
+        },
+        {
+            "token": "three",
+            "label": "nummod"
+        },
+        {
+            "token": "years",
+            "label": "root"
+        },
+        {
+            "token": "between",
+            "label": "case"
+        },
+        {
+            "token": "recovery",
+            "label": "nmod"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "specimens",
+            "label": "nmod"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "final",
+            "label": "amod"
+        },
+        {
+            "token": "publication",
+            "label": "conj"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "why",
+            "label": "advmod"
+        },
+        {
+            "token": "did",
+            "label": "aux"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "take",
+            "label": "parataxis"
+        },
+        {
+            "token": "so",
+            "label": "advmod"
+        },
+        {
+            "token": "long",
+            "label": "advmod"
+        },
+        {
+            "token": "?",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "You",
+            "label": "nsubj"
+        },
+        {
+            "token": "mean",
+            "label": "root"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "how",
+            "label": "advmod"
+        },
+        {
+            "token": "did",
+            "label": "aux"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "manage",
+            "label": "ccomp"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "make",
+            "label": "xcomp"
+        },
+        {
+            "token": "it",
+            "label": "obj"
+        },
+        {
+            "token": "all",
+            "label": "det"
+        },
+        {
+            "token": "happen",
+            "label": "xcomp"
+        },
+        {
+            "token": "so",
+            "label": "advmod"
+        },
+        {
+            "token": "quickly",
+            "label": "advmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "right",
+            "label": "discourse"
+        },
+        {
+            "token": "?",
+            "label": "punct"
+        },
+        {
+            "token": ":)",
+            "label": "discourse"
+        }
+    ],
+    [
+        {
+            "token": "It",
+            "label": "nsubj"
+        },
+        {
+            "token": "was",
+            "label": "cop"
+        },
+        {
+            "token": "about",
+            "label": "advmod"
+        },
+        {
+            "token": "two",
+            "label": "nummod"
+        },
+        {
+            "token": "years",
+            "label": "root"
+        },
+        {
+            "token": "from",
+            "label": "case"
+        },
+        {
+            "token": "when",
+            "label": "nmod"
+        },
+        {
+            "token": "Frank",
+            "label": "nsubj"
+        },
+        {
+            "token": "sent",
+            "label": "advcl:relcl"
+        },
+        {
+            "token": "me",
+            "label": "iobj"
+        },
+        {
+            "token": "specimens",
+            "label": "obj"
+        },
+        {
+            "token": "to",
+            "label": "case"
+        },
+        {
+            "token": "when",
+            "label": "nmod"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "got",
+            "label": "advcl:relcl"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "paper",
+            "label": "obj"
+        },
+        {
+            "token": "out",
+            "label": "compound:prt"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "Some",
+            "label": "nsubj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "that",
+            "label": "det"
+        },
+        {
+            "token": "time",
+            "label": "nmod"
+        },
+        {
+            "token": "was",
+            "label": "cop"
+        },
+        {
+            "token": "just",
+            "label": "advmod"
+        },
+        {
+            "token": "lost",
+            "label": "amod"
+        },
+        {
+            "token": "time",
+            "label": "root"
+        },
+        {
+            "token": "-",
+            "label": "punct"
+        },
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "had",
+            "label": "parataxis"
+        },
+        {
+            "token": "other",
+            "label": "amod"
+        },
+        {
+            "token": "projects",
+            "label": "obj"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "queue",
+            "label": "nmod"
+        },
+        {
+            "token": "that",
+            "label": "obj"
+        },
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "needed",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "finish",
+            "label": "xcomp"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "Once",
+            "label": "mark"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "figured",
+            "label": "advcl"
+        },
+        {
+            "token": "out",
+            "label": "compound:prt"
+        },
+        {
+            "token": "what",
+            "label": "ccomp"
+        },
+        {
+            "token": "it",
+            "label": "nsubj"
+        },
+        {
+            "token": "was",
+            "label": "cop"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "we",
+            "label": "nsubj"
+        },
+        {
+            "token": "played",
+            "label": "root"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "lot",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "manuscript",
+            "label": "compound"
+        },
+        {
+            "token": "email",
+            "label": "compound"
+        },
+        {
+            "token": "tag",
+            "label": "nmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "which",
+            "label": "nsubj"
+        },
+        {
+            "token": "can",
+            "label": "aux"
+        },
+        {
+            "token": "be",
+            "label": "aux"
+        },
+        {
+            "token": "challenging",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "time",
+            "label": "compound"
+        },
+        {
+            "token": "consuming",
+            "label": "conj"
+        },
+        {
+            "token": "given",
+            "label": "advcl"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "differing",
+            "label": "amod"
+        },
+        {
+            "token": "schedules",
+            "label": "obj"
+        },
+        {
+            "token": "that",
+            "label": "obj"
+        },
+        {
+            "token": "folks",
+            "label": "nsubj"
+        },
+        {
+            "token": "keep",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "terms",
+            "label": "obl"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "travel",
+            "label": "nmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "field",
+            "label": "compound"
+        },
+        {
+            "token": "work",
+            "label": "conj"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "etc.",
+            "label": "conj"
+        }
+    ],
+    [
+        {
+            "token": "Manuscript",
+            "label": "compound"
+        },
+        {
+            "token": "review",
+            "label": "nsubj"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "processing",
+            "label": "conj"
+        },
+        {
+            "token": "took",
+            "label": "root"
+        },
+        {
+            "token": "about",
+            "label": "advmod"
+        },
+        {
+            "token": "four",
+            "label": "nummod"
+        },
+        {
+            "token": "months",
+            "label": "obj"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "What",
+            "label": "det"
+        },
+        {
+            "token": "sort",
+            "label": "nsubj:pass"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "difficulties",
+            "label": "nmod"
+        },
+        {
+            "token": "were",
+            "label": "aux:pass"
+        },
+        {
+            "token": "posed",
+            "label": "root"
+        },
+        {
+            "token": "by",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "unorthodox",
+            "label": "amod"
+        },
+        {
+            "token": "preservatives",
+            "label": "obl:agent"
+        },
+        {
+            "token": "used",
+            "label": "acl"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "what",
+            "label": "det"
+        },
+        {
+            "token": "additional",
+            "label": "amod"
+        },
+        {
+            "token": "work",
+            "label": "nsubj"
+        },
+        {
+            "token": "might",
+            "label": "aux"
+        },
+        {
+            "token": "be",
+            "label": "cop"
+        },
+        {
+            "token": "possible",
+            "label": "conj"
+        },
+        {
+            "token": "on",
+            "label": "case"
+        },
+        {
+            "token": "a",
+            "label": "det"
+        },
+        {
+            "token": "specimen",
+            "label": "obl"
+        },
+        {
+            "token": "with",
+            "label": "case"
+        },
+        {
+            "token": "intact",
+            "label": "amod"
+        },
+        {
+            "token": "DNA",
+            "label": "nmod"
+        },
+        {
+            "token": "?",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "The",
+            "label": "det"
+        },
+        {
+            "token": "preservation",
+            "label": "nsubj"
+        },
+        {
+            "token": "was",
+            "label": "cop"
+        },
+        {
+            "token": "not",
+            "label": "advmod"
+        },
+        {
+            "token": "unorthodox",
+            "label": "root"
+        },
+        {
+            "token": "-",
+            "label": "punct"
+        },
+        {
+            "token": "they",
+            "label": "nsubj"
+        },
+        {
+            "token": "followed",
+            "label": "parataxis"
+        },
+        {
+            "token": "best",
+            "label": "amod"
+        },
+        {
+            "token": "practices",
+            "label": "obj"
+        },
+        {
+            "token": "for",
+            "label": "case"
+        },
+        {
+            "token": "anatomical",
+            "label": "amod"
+        },
+        {
+            "token": "preservation",
+            "label": "nmod"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "Having",
+            "label": "csubj"
+        },
+        {
+            "token": "DNA",
+            "label": "compound"
+        },
+        {
+            "token": "-",
+            "label": "punct"
+        },
+        {
+            "token": "suitable",
+            "label": "amod"
+        },
+        {
+            "token": "material",
+            "label": "obj"
+        },
+        {
+            "token": "will",
+            "label": "aux"
+        },
+        {
+            "token": "let",
+            "label": "root"
+        },
+        {
+            "token": "us",
+            "label": "obj"
+        },
+        {
+            "token": "see",
+            "label": "xcomp"
+        },
+        {
+            "token": "whether",
+            "label": "mark"
+        },
+        {
+            "token": "there",
+            "label": "expl"
+        },
+        {
+            "token": "are",
+            "label": "ccomp"
+        },
+        {
+            "token": "new",
+            "label": "amod"
+        },
+        {
+            "token": "genes",
+            "label": "nsubj"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "or",
+            "label": "cc"
+        },
+        {
+            "token": "genes",
+            "label": "conj"
+        },
+        {
+            "token": "turned",
+            "label": "acl"
+        },
+        {
+            "token": "on",
+            "label": "compound:prt"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "different",
+            "label": "amod"
+        },
+        {
+            "token": "ways",
+            "label": "obl"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "at",
+            "label": "case"
+        },
+        {
+            "token": "different",
+            "label": "amod"
+        },
+        {
+            "token": "times",
+            "label": "conj"
+        },
+        {
+            "token": "that",
+            "label": "nsubj"
+        },
+        {
+            "token": "help",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "explain",
+            "label": "xcomp"
+        },
+        {
+            "token": "how",
+            "label": "obj"
+        },
+        {
+            "token": "these",
+            "label": "det"
+        },
+        {
+            "token": "animals",
+            "label": "nsubj"
+        },
+        {
+            "token": "burrow",
+            "label": "advcl:relcl"
+        },
+        {
+            "token": "into",
+            "label": "case"
+        },
+        {
+            "token": "hard",
+            "label": "amod"
+        },
+        {
+            "token": "ice",
+            "label": "obl"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "then",
+            "label": "advmod"
+        },
+        {
+            "token": "survive",
+            "label": "conj"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "cold",
+            "label": "obl"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "I",
+            "label": "nsubj"
+        },
+        {
+            "token": "am",
+            "label": "cop"
+        },
+        {
+            "token": "curious",
+            "label": "root"
+        },
+        {
+            "token": "about",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "population",
+            "label": "compound"
+        },
+        {
+            "token": "structure",
+            "label": "obl"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "\"",
+            "label": "punct"
+        },
+        {
+            "token": "fields",
+            "label": "nmod"
+        },
+        {
+            "token": "\"",
+            "label": "punct"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "anemones",
+            "label": "nmod"
+        },
+        {
+            "token": "-",
+            "label": "punct"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "group",
+            "label": "nsubj"
+        },
+        {
+            "token": "to",
+            "label": "case"
+        },
+        {
+            "token": "which",
+            "label": "obl"
+        },
+        {
+            "token": "Edwardsiella",
+            "label": "compound"
+        },
+        {
+            "token": "andrillae",
+            "label": "nsubj"
+        },
+        {
+            "token": "belongs",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "includes",
+            "label": "parataxis"
+        },
+        {
+            "token": "many",
+            "label": "amod"
+        },
+        {
+            "token": "species",
+            "label": "obj"
+        },
+        {
+            "token": "that",
+            "label": "nsubj"
+        },
+        {
+            "token": "reproduce",
+            "label": "acl:relcl"
+        },
+        {
+            "token": "asexually",
+            "label": "advmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "it's",
+            "label": "_"
+        },
+        {
+            "token": "it",
+            "label": "expl"
+        },
+        {
+            "token": "'s",
+            "label": "cop"
+        },
+        {
+            "token": "possible",
+            "label": "conj"
+        },
+        {
+            "token": "that",
+            "label": "mark"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "fields",
+            "label": "nsubj"
+        },
+        {
+            "token": "are",
+            "label": "cop"
+        },
+        {
+            "token": "\"",
+            "label": "punct"
+        },
+        {
+            "token": "clones",
+            "label": "csubj"
+        },
+        {
+            "token": "\"",
+            "label": "punct"
+        },
+        {
+            "token": "produced",
+            "label": "acl"
+        },
+        {
+            "token": "asexually",
+            "label": "advmod"
+        },
+        {
+            "token": "rather",
+            "label": "cc"
+        },
+        {
+            "token": "than",
+            "label": "fixed"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "result",
+            "label": "conj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "sexual",
+            "label": "amod"
+        },
+        {
+            "token": "reproduction",
+            "label": "nmod"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "DNA",
+            "label": "nsubj"
+        },
+        {
+            "token": "is",
+            "label": "cop"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "only",
+            "label": "amod"
+        },
+        {
+            "token": "way",
+            "label": "root"
+        },
+        {
+            "token": "to",
+            "label": "mark"
+        },
+        {
+            "token": "test",
+            "label": "acl"
+        },
+        {
+            "token": "this",
+            "label": "obj"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ],
+    [
+        {
+            "token": "This",
+            "label": "det"
+        },
+        {
+            "token": "map",
+            "label": "nsubj"
+        },
+        {
+            "token": "shows",
+            "label": "root"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "location",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "Ross",
+            "label": "compound"
+        },
+        {
+            "token": "Ice",
+            "label": "compound"
+        },
+        {
+            "token": "Shelf",
+            "label": "nmod"
+        },
+        {
+            "token": "in",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "Antarctic",
+            "label": "nmod"
+        },
+        {
+            "token": ",",
+            "label": "punct"
+        },
+        {
+            "token": "and",
+            "label": "cc"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "two",
+            "label": "nummod"
+        },
+        {
+            "token": "known",
+            "label": "amod"
+        },
+        {
+            "token": "localities",
+            "label": "conj"
+        },
+        {
+            "token": "for",
+            "label": "case"
+        },
+        {
+            "token": "E.",
+            "label": "compound"
+        },
+        {
+            "token": "andrillae",
+            "label": "nmod"
+        },
+        {
+            "token": "relative",
+            "label": "advmod"
+        },
+        {
+            "token": "to",
+            "label": "case"
+        },
+        {
+            "token": "McMurdo",
+            "label": "compound"
+        },
+        {
+            "token": "Station",
+            "label": "obl"
+        }
+    ],
+    [
+        {
+            "token": "image",
+            "label": "root"
+        },
+        {
+            "token": ":",
+            "label": "punct"
+        },
+        {
+            "token": "Daily",
+            "label": "parataxis"
+        },
+        {
+            "token": "et",
+            "label": "cc"
+        },
+        {
+            "token": "al.",
+            "label": "conj"
+        }
+    ],
+    [
+        {
+            "token": "Daly",
+            "label": "nsubj"
+        },
+        {
+            "token": "explained",
+            "label": "root"
+        },
+        {
+            "token": "how",
+            "label": "obj"
+        },
+        {
+            "token": "she",
+            "label": "nsubj"
+        },
+        {
+            "token": "obtained",
+            "label": "advcl:relcl"
+        },
+        {
+            "token": "these",
+            "label": "det"
+        },
+        {
+            "token": "images",
+            "label": "obj"
+        },
+        {
+            "token": "of",
+            "label": "case"
+        },
+        {
+            "token": "the",
+            "label": "det"
+        },
+        {
+            "token": "anemone's",
+            "label": "_"
+        },
+        {
+            "token": "anemone",
+            "label": "nmod:poss"
+        },
+        {
+            "token": "'s",
+            "label": "case"
+        },
+        {
+            "token": "anatomy",
+            "label": "nmod"
+        },
+        {
+            "token": ".",
+            "label": "punct"
+        }
+    ]
+]
