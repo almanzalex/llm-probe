@@ -2,7 +2,7 @@
 
 This probe explores how GPT-2’s embeddings encode syntactic information, using a sample of the English-GUM corpus. It’s a mix of linguistics and machine learning.
 
-### What it does: 
+## What it does: 
 
 - GPT-2 Embeddings: We use GPT-2 to generate sentence embeddings from the English-GUM dataset. These embeddings are like fingerprints for each sentence.
 - Train the Probe: A probe is a simple model (in this case, linear regression) that helps us see if certain features, like syntax, are encoded in those embeddings.
