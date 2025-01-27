@@ -6,16 +6,20 @@ from matplotlib.colors import LogNorm
 
 class LinearRegressionProbe:
     def __init__(self, input_dim, lr=0.01):
+        # initializes the model with random weights and bias
         self.weights = np.random.randn(input_dim)
         self.bias = np.random.randn(1)
         self.lr = lr
 
+    #predicts by linear combinations of weights and features + bias
     def predict(self, X):
         return np.dot(X, self.weights) + self.bias
 
+    # calculates error
     def compute_cost(self, y_pred, y):
         return np.mean((y_pred - y) ** 2)
 
+    # adjusts weights according to error
     def fit(self, X, y, training_steps=100):
         cost_history = []
         weight_history = []
@@ -28,22 +32,24 @@ class LinearRegressionProbe:
             weight_history.append(self.weights.copy())
 
             n = X.shape[0]
-            dW = (2 / n) * np.dot(X.T, (y_pred - y))
-            db = (2 / n) * np.sum(y_pred - y)
+            deltaW = (2 / n) * np.dot(X.T, (y_pred - y))
+            deltab = (2 / n) * np.sum(y_pred - y)
 
-            self.weights -= self.lr * dW
-            self.bias -= self.lr * db
+            self.weights -= self.lr * deltaW
+            self.bias -= self.lr * deltab
 
             print(f"Step {step + 1}/{training_steps}, Cost: {cost:.4f}")
 
         return cost_history, weight_history
 
+# generates random seeds
 def generate_data(num_samples=100, embedding_dim=768):
     np.random.seed(42)
     X = np.random.randn(num_samples, embedding_dim)
     y = np.random.randint(0, 2, size=num_samples)
     return X, y
 
+# implements probe and visualizes data
 if __name__ == "__main__":
     X, y = generate_data()
     X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
@@ -78,6 +84,7 @@ if __name__ == "__main__":
     sorted_indices = np.argsort(average_magnitudes)[::-1]
     sorted_weight_matrix = weight_matrix[:, sorted_indices]
 
+    # REALLY cool heatmap
     plt.figure(figsize=(12, 8))
     plt.imshow(np.abs(sorted_weight_matrix), aspect="auto", cmap="viridis", norm=LogNorm(vmin=1e-2, vmax=np.abs(weight_matrix).max()))
     plt.colorbar(label="Weight Magnitude (Log Scale)")
