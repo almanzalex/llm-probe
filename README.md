@@ -11,11 +11,17 @@ This probe explores how GPT-2’s embeddings encode syntactic information, using
 `embedding_extract.py`
 - This script extracts embeddings from GPT-2 for the sentences in the English-GUM dataset. It’s like running the dataset through GPT-2 and grabbing the output in a form we can analyze.
 
-`English-gum-reformat.py`
+`english-gum-reformat.py`
 - This script prepares the dataset. The English-GUM corpus comes in a specific format, and this script parses it into something cleaner and easy to parse.
 
 `probe.py`
-- The probe takes the embeddings and checks how well they encode syntactic information by training on them. Visualization of the data is also provided. 
+- The probe takes the embeddings and checks how well they encode syntactic information by training on them. Visualization of the data is also provided.
+
+`parsed_gum.json`
+- Output of `English-gum-reformat.py`, parsed version of `english-GUM-sample.txt`. More digestable format for the model.
+
+`english-gum-sample.txt`
+- Very small sample of the English-GUM dataset.
 
 ## How to use:
 - Start with the English-GUM dataset file. This project includes a script (English-gum-reformat.py) to clean and format it into a JSON file.
